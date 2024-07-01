@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    color: rgb(58, 148, 118);
+}
+h3{
+    color: rgb(54, 102, 86);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    font-style: italic;
+}
+#p1{
+    font-size: medium;
+    color: aquamarine;
+}
+#p2{
+font-size: large;
+}
+#p3{
+    font-size: larger;
+
+}
+.list1{
+    background-color: aquamarine;
+}
+.grp1{
+    border: 1px solid red;
+    margin: 5% 10% 5% 30%;
+    padding: 10px 30px 10px 7%;
+}
